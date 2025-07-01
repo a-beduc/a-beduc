@@ -15,8 +15,8 @@ Check out my work at <a href="https://a-beduc.github.io/portfolio/">portfolio</a
 deployment).
   - Contribute to open‑source projects.
   - Build and share at least two public web apps.
-- 🌱 Learning right now: **Django · PostgresSQL**
-- 📚 Interested in : **Docker · Polars**
+- 🌱 Learning right now: **Docker**
+- 📚 Interested in : **Polars**
 
 ## 🛠️ Tech Stack
 
