@@ -15,8 +15,8 @@ Check out my work at <a href="https://a-beduc.github.io/portfolio/">portfolio</a
 deployment).
   - Contribute to open‑source projects.
   - Build and share at least two public web apps.
-- 🌱 Learning right now: **Shell and Linux**
-- 📚 Interested in : **FastAPI**
+- 🌱 Learning right now: **HTMX**
+- 📚 Interested in : **TDD**
 
 ## 🛠️ Tech Stack
 
